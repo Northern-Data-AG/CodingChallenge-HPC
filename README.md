@@ -21,4 +21,4 @@ References
 
 This repository builds on "Neural Networks and Deep Learning", Determination Press, 2015
 
-Feel free to use their free resources to get a better understanding of the network (link).
+Feel free to use their free resources to get a better understanding of the network (http://neuralnetworksanddeeplearning.com/).
