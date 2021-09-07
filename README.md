@@ -1,4 +1,6 @@
 # CodingChallenge-HPC
+Attached you’ll find a simple feedforward network leveraging stochastic gradient descent to train MNIST (handwritten digit recognition).
+
 # Task & approach
 
 As part of your task, we kindly ask you to optimize the speed of convergence of this network.
