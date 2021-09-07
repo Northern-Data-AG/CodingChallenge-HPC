@@ -1,5 +1,5 @@
 # CodingChallenge-HPC
-Task & approach
+# Task & approach
 
 As part of your task, we kindly ask you to optimize the speed of convergence of this network.
 
@@ -11,13 +11,13 @@ Proof your improved convergence speed by logging the convergence performance ove
 
  
 
-Out-of-scope
+# Out-of-scope
 
 Improving the neural network’s architecture for stronger performance (e.g. CNN)
 Leveraging frameworks that provide support based on computational graphs (e.g. TensorFlow) or native GPU support (e.g. Theano)
  
 
-References
+# References
 
 This repository builds on "Neural Networks and Deep Learning", Determination Press, 2015
 
